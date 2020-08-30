@@ -1,0 +1,14 @@
+{
+    "name": "Daze",
+    "description": "Deploy Daze on Heroku.",
+    "keywords": ["Daze"],
+    "env": {
+        "PASSWORD": {
+            "description": "Daze password",
+            "value": "daze123456"
+        }
+    },
+	"stack": "container",
+    "website": "https://github.com/VerSign010/daze-heroku",
+    "repository": "https://github.com/VerSign010/daze-heroku"
+}
