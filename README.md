@@ -1,6 +1,9 @@
 # Daze Heroku
 未完工！！！！！！！！！！！！！
-！！！# 用于在 Heroku 上部署 Daze。
+！！！
+/
+/
+# 用于在 Heroku 上部署 Daze。
 
 1、一键部署
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FVerSign010%2Fdaze-heroku)
