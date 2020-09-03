@@ -8,7 +8,7 @@
             "value": "daze123456"
         }
     },
-	"stack": "container",
+    "stack": "container",
     "website": "https://github.com/VerSign010/daze-heroku",
     "repository": "https://github.com/VerSign010/daze-heroku"
 }
