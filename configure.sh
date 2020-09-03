@@ -10,4 +10,4 @@ install -m 755 /tmp/daze/daze /daze
 rm -rf /tmp/daze
 
 # Run Daze
-/daze server -l -k $PASSWORD
+/daze server -l :$PORT -k $PASSWORD
